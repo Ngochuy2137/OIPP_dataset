@@ -1,4 +1,4 @@
-# 🚀 ROCAT DATASET
+# 🚀 DIPP DATASET
 
 This repository provides a trajectory dataset of 20 diverse objects with varying shapes and physical properties, each exhibiting different aerodynamic dynamics. The dataset has been specifically collected and designed to support research in **robotics, motion prediction, reinforcement learning, and dynamic modeling**. It serves as one of the main contributions of the project [DIPP: Discriminative Impact Point Predictor for Catching Diverse In-Flight Objects](https://sites.google.com/view/robot-catching-2025/ホーム).
 
