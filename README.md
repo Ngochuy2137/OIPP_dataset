@@ -26,5 +26,5 @@ git clone https://github.com/Ngochuy2137/DIPP_dataset.git
 If you use this dataset, please cite the following paper: [DIPP: Discriminative Impact Point Predictor for Catching Diverse In-Flight Objects](https://sites.google.com/view/robot-catching-2025/ホーム)
 - Full legal text available at: https://creativecommons.org/licenses/by/4.0/legalcode
 <p align="center">
-  <img src="./DIPP_trajectory_dataset.png" width="900">
+  <img src="./OIPP_trajectory_dataset.png" width="900">
 </p>
